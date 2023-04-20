@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HydraRosario/ANDREA-VENTANCOR/static/css/main.747ccda0.css",
+    "main.js": "/HydraRosario/ANDREA-VENTANCOR/static/js/main.83b5c80a.js",
+    "static/media/avatar2.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/avatar2.dfe65ea4dc80452c6881.png",
+    "static/media/portfolio-img3.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/portfolio-img3.cb7b99917d6d4f02f77b.png",
+    "static/media/site-bg.jpg": "/HydraRosario/ANDREA-VENTANCOR/static/media/site-bg.46393fea07067012ba3b.jpg",
+    "static/media/about.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/about.e17e22b968913aa670b8.png",
+    "static/media/portfolio-img2.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/portfolio-img2.34779669992f521507bf.png",
+    "static/media/portfolio-img1.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/portfolio-img1.c06bf6dde1652f2dd5f5.png",
+    "static/media/services.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/services.4f32b556c7bb4033bc17.png",
+    "static/media/logo.png": "/HydraRosario/ANDREA-VENTANCOR/static/media/logo.bc93c65996954a93b394.png",
+    "index.html": "/HydraRosario/ANDREA-VENTANCOR/index.html",
+    "main.747ccda0.css.map": "/HydraRosario/ANDREA-VENTANCOR/static/css/main.747ccda0.css.map",
+    "main.83b5c80a.js.map": "/HydraRosario/ANDREA-VENTANCOR/static/js/main.83b5c80a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.747ccda0.css",
+    "static/js/main.83b5c80a.js"
+  ]
+}
