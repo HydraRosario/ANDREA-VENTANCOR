@@ -54,20 +54,8 @@ const Banner = () => {
               viewport={{once: false, amount: 0.7}}
               className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'
             >
-              <button className='btn btn-sm'>
-                <a href='https://www.facebook.com/andrea.ventancor'>Contactame</a>
-              </button>
-              {/* <button className='btn btn-lg'>
-              <a href='https://www.youtube.com/@HydraRosario'>
-                <FaYoutube/>
-              </a>
-              </button>
-              <button className='btn btn-lg'>
-              <a href='https://github.com/HydraRosario'>
-                <FaGithub/>
-              </a>
-              </button> */}
-              <a className='btn btn-lg' href='https://www.instagram.com/aventancor'><BsInstagram/></a>
+              <a href='https://www.facebook.com/andrea.ventancor' target='_blank' rel='noopener noreferrer'><button className='btn btn-lg'>Contactame</button></a>
+              <a href='https://www.instagram.com/aventancor' target='_blank' rel='noopener noreferrer'><button className='btn btn-lg'><BsInstagram/></button></a>
             </motion.div>
             <motion.div
               variants={fadeIn('up', 0.7)}

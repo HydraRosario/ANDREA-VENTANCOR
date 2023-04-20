@@ -39,8 +39,8 @@ const About = () => {
                     <CountUp start={0} end={10} duration={3} /> : null}
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
-                  Years of <br />
-                  Production
+                  Años de <br />
+                  Experiencia
                 </div>
               </div>
               <div>
@@ -51,8 +51,8 @@ const About = () => {
                     k+
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
-                  Hours of <br />
-                  Coding
+                  Viajes<br />
+                  Realizados
                 </div>
               </div>
               <div>
@@ -63,16 +63,12 @@ const About = () => {
                     +
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
-                  Satisfied <br />
-                  Customers
+                  Clientes <br />
+                  Satisfechos
                 </div>
               </div>
               <div className='flex gap-x-8 items-center'>
-              <button className='btn btn-lg'>
-                <a href='https://www.linkedin.com/in/HydraRosario/'>
-                  Contact me
-                </a>
-              </button>
+              <a href='https://wa.me/3434166957' target='_blank' rel='noopener noreferrer'><button className='btn btn-lg'>Contactame</button></a>
               </div>
             </div>
           </motion.div>

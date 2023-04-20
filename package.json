@@ -47,7 +47,6 @@
     "react-type-animation": "^2.1.2",
     "tailwindcss": "^3.3.1"
   },
-  "main": "tailwind.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HydraRosario/ANDREA-VENTANCOR"
@@ -58,6 +57,6 @@
   "bugs": {
     "url": "https://github.com/HydraRosario/ANDREA-VENTANCOR/issues"
   },
-  "homepage": "https://github.com/HydraRosario/ANDREA-VENTANCOR#readme",
-  "description": ""
+  "homepage": "",
+  "proxy": "http://localhost:3000"
 }

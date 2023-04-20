@@ -18,26 +18,22 @@ const Work = () => {
           className='flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0'>
             <div>
               <h2 className='h2 leading-tight text-accent'>
-                My Latest <br />
-                Work
+                Mis últimos <br />
+                Trabajos
               </h2>
               <p className='max-w-sm mb-16'>
-              The rest of my work can be found on linkedin
+              El resto de mi trabajo puede ser visto en mis redes.
               </p>
-              <button className='btn btn-sm'>
-                <a href='https://www.linkedin.com/in/HydraRosario/'>
-                  View all projects
-                </a>
-              </button>
+              <a href='https://www.facebook.com/andrea.ventancor' target='_blank' rel='noopener noreferrer'><button className='btn btn-sm'>Mira mis proyectos</button></a>
             </div>
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-x1'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img1} alt='' />
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>GPT3 & DALLE2 IN PYTHON</span>
+                <span className='text-gradient'>Algun trabajo realizado</span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>two artificial intelligences assist you in your tasks or creating images</span>
+                <span className='text-3x1 text-white'>con una pequeña descripción de la experiencia</span>
               </div>
             </div>
           </motion.div>
@@ -51,20 +47,20 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img2} alt='' />
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>AN AMAZON STYLE APP</span>
+                <span className='text-gradient'>Algunos comentarios dejados por clientes satisfechos</span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>GalaxiaTech</span>
+                <span className='text-3x1 text-white'>con experiencias y opiniones positivas</span>
               </div>
             </div>
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-x1'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img3} alt='' />
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>A FOOD APP</span>
+                <span className='text-gradient'>contenido extra</span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>Henry Food PI</span>
+                <span className='text-3x1 text-white'>que sea llamativo para la gente</span>
               </div>
             </div>
           </motion.div>

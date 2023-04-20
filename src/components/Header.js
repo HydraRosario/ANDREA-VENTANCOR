@@ -12,11 +12,7 @@ const Header = () => {
             <img src={Logo} alt='' height='200px' width='200px'/>
           </a>
           {/* button */}
-          <button className='btn btn-sm'>
-          <a href='https://www.facebook.com/andreaventancorturismo'>
-                  Trabaja conmigo
-                </a>
-          </button>
+          <a href='https://www.facebook.com/andreaventancorturismo' target='_blank' rel='noopener noreferrer'><button className='btn btn-lg'>Trabaja conmigo</button></a>
         </div>
       </div>
     </header>
