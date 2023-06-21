@@ -30,10 +30,10 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img1} alt='' />
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>Algun trabajo realizado</span>
+                <span className='text-gradient'>Visitamos Buenos Aires Turismo en Paraná.</span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>con una pequeña descripción de la experiencia</span>
+                <span className='text-3x1 text-white'>Un lujo acompañar a la colega @vanesadellaz</span>
               </div>
             </div>
           </motion.div>
@@ -47,20 +47,20 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img2} alt='' />
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>Algunos comentarios dejados por clientes satisfechos</span>
+                <span className='text-gradient'>Gracias por permitirnos aportar nuestra experiencia en la discusión de este nuevo proyecto de ley.</span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>con experiencias y opiniones positivas</span>
+                <span className='text-3x1 text-white'>captura de la nota que salió en El Once</span>
               </div>
             </div>
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-x1'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img3} alt='' />
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>contenido extra</span>
+                <span className='text-gradient'>mamá 24/7</span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>que sea llamativo para la gente</span>
+                <span className='text-3x1 text-white'>el trabajo mas lindo de todos</span>
               </div>
             </div>
           </motion.div>

@@ -43,7 +43,7 @@ const Contact = () => {
               name='email'
               placeholder='Tu email'
             />
-            <textarea className='bg-transparent border-b py-3 outline-none w-full placeholder:text-white focus:border-accent transitio-all' placeholder="Your Message" name="message" rows="10" required></textarea>
+            <textarea className='bg-transparent border-b py-3 outline-none w-full placeholder:text-white focus:border-accent transitio-all' placeholder="Tu mensaje" name="message" rows="10" required></textarea>
             <button className='btn btn-lg'>Enviar mensaje.</button>
           </motion.form>
         </div>
